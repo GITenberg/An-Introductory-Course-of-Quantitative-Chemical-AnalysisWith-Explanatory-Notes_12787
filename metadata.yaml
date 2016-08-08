@@ -1,0 +1,28 @@
+_repo: An-Introductory-Course-of-Quantitative-Chemical-AnalysisWith-Explanatory-Notes_12787
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Talbot, Henry Paul
+    alias: Talbot, Henry P.
+    birthdate: 1864
+    deathdate: 1927
+    gutenberg_agent_id: '4581'
+    url: http://www.gutenberg.org/2009/agents/4581
+description: ''
+gutenberg_bookshelf: Chemistry
+gutenberg_issued: '2004-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12787'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QD'
+- !lcsh 'Chemistry, Analytic -- Quantitative'
+- GITenberg
+title: 'An Introductory Course of Quantitative Chemical Analysis
+
+  With Explanatory Notes'
+url: http://www.gutenberg.org/ebooks/12787
