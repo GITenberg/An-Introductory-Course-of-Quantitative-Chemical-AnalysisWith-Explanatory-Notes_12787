@@ -1,5 +1,8 @@
 _repo: An-Introductory-Course-of-Quantitative-Chemical-AnalysisWith-Explanatory-Notes_12787
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Talbot, Henry Paul
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '4581'
     url: http://www.gutenberg.org/2009/agents/4581
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12787#An-Introductory-Course-of-Quantitative-Chemical-AnalysisWith-Explanatory-Notes
 gutenberg_bookshelf: Chemistry
 gutenberg_issued: '2004-06-30'
 gutenberg_type: Text
